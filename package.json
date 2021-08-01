@@ -1,0 +1,16 @@
+{
+  "name": "jest-hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "polyana.pimenta@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6",
+    "majestic": "^1.8.1"
+  }
+}
